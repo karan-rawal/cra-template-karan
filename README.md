@@ -12,7 +12,7 @@ You can use this template by specifying `--template cra-template-karan` option t
 
 Note:
 1. To make the most of this template it is recommended to use VSCode as the IDE with [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) extensions.
-2. Current version of [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension for vscode doesn't work on [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint). Switch the eslint extension to pre-release and it should start working.
+2. If current version of [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension for vscode doesn't work on latest version of [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), consider switching to the pre-release version of the eslint extension. This should resolve the issue.
 
 For more information, please refer to:
 
