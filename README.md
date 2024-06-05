@@ -1,20 +1,17 @@
-# CRA template created by Karan Rawal
+# CRA Template by Karan Rawal
 
-This is a base template for [Create React App](https://github.com/facebook/create-react-app).
+This template serves as a base for [Create React App](https://github.com/facebook/create-react-app) and includes default support for:
 
-Template supports the following by default:
 1. [TypeScript](https://www.typescriptlang.org/)
 2. [Eslint](https://eslint.org/)
 3. [Prettier](https://prettier.io/)
 
+To use this template, add the `--template cra-template-karan` option when running the create-react-app command.
 
-You can use this template by specifying `--template cra-template-karan` option to the create-react-app command.
+**Recommendations:**
+1. For optimal use of this template, it's recommended to use VSCode as your IDE, with the [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) extensions installed.
+2. If the current version of the [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension for VSCode is incompatible with the latest version of eslint, consider switching to the pre-release version of the eslint extension. This should resolve any compatibility issues.
 
-Note:
-1. To make the most of this template it is recommended to use VSCode as the IDE with [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) extensions.
-2. If current version of [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) extension for vscode doesn't work on latest version of [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), consider switching to the pre-release version of the eslint extension. This should resolve the issue.
-
-For more information, please refer to:
-
-- [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
-- [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
+**Additional Resources:**
+- [Getting Started](https://create-react-app.dev/docs/getting-started): Learn how to create a new app.
+- [User Guide](https://create-react-app.dev): Discover how to develop apps bootstrapped with Create React App.
