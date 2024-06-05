@@ -24,6 +24,9 @@
                 "react-app",
                 "react-app/jest"
             ]
+        },
+        "overrides": {
+            "typescript": "^5.4.5"
         }
     }
 }
