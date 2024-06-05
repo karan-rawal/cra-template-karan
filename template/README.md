@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using [Karan's CRA template](https://github.com/karan-rawal/cra-template-karan)
 
 ## Available Scripts
 
