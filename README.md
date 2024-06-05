@@ -8,7 +8,7 @@ Template supports the following by default:
 3. [Prettier](https://prettier.io/)
 
 
-You can use this template by specifying `--template karan-cra-template` option to the create-react-app command.
+You can use this template by specifying `--template cra-template-karan` option to the create-react-app command.
 
 Note:
 1. To make the most of this template it is recommended to use VSCode as the IDE with [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) and [prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) extensions.
